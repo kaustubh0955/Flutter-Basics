@@ -33,7 +33,7 @@ class Result extends StatelessWidget {
           TextButton(
             onPressed: resetHandler,
             child: Text(
-              'fds',
+              'You passed the test',
               style: TextStyle(
                 color: Colors.blueGrey,
                 fontSize: 30,
